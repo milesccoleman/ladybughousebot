@@ -1,7 +1,6 @@
-# ladybughousebot
+# ladybughousebot mockup
 
 
-<!DOCTYPE HTML>
 <!--
 	LBH Bot, Mockup
 -->
