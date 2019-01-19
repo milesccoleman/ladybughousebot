@@ -5,7 +5,8 @@
 
 iframe {
   position: fixed;
-  z-index: 9994;  
   transform: translateZ(0);
   -webkit-transform: translateZ(0);
+  bottom: 100;
+  right: 50;
   }
