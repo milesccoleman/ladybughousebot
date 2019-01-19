@@ -1,6 +1,6 @@
 [Home](https://milesccoleman.com)
 
-<iframe frameBorder="0" src="https://ladybug-bot.herokuapp.com/#bot-container" height="475" width="325"></iframe>
+<iframe id="bot-window" frameBorder="0" src="https://ladybug-bot.herokuapp.com/#bot-container" height="475" width="325"></iframe>
 
 This is a machine-learning assisted chatbot designed to answer questions about pediatric palliative care. 
 
