@@ -1,6 +1,6 @@
 [Home](https://milesccoleman.com)
 
-<iframe id="bot-window" frameBorder="0" src="https://ladybug-bot.herokuapp.com/#bot-container" height="675" width="325"></iframe>
+<iframe id="bot-window" frameBorder="0" src="https://ladybug-bot.herokuapp.com/#bot-container" height="100%" width="325"></iframe>
 <br>
 <br>
 <br>
