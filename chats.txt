@@ -6,11 +6,11 @@ How many children die of illness each year?
 What are the number on life-limiting illness in children?
 How many children are afflicted with life-limiting illnesses?
 What can I do to help?
-You can <a href="https://www.ladybughouse.org/volunteer/">Volunteer</a> or <a href="https://www.ladybughouse.org/give/">Donate</a>
+You can <a href="https://www.ladybughouse.org/volunteer/">Volunteer</a> or <a href="https://www.ladybughouse.org/give/" target="_blank">Donate</a>
 What volunteer opportunities do you have?
 Currently Ladybug House needs volunteers who can help the organization "start up." This includes, people interested in marketing, business planning, and legislation. But, basically, if you care, there will be something for you at the organization. 
 I would like to donate. How do I?
-You can donate <a href="https://www.ladybughouse.org/give/">here</a>.
+You can donate <a href="https://www.ladybughouse.org/give/" target="_blank">here</a>.
 Why do we need Ladybug House?
 Right now there are only two palliative care homes for children, adolescents and young adults in the United States. As this has never been done in Washington, this is still in the works. Our plan is to have support from insurance and the rest from community giving and philanthropy.
 What can Ladybug House do to help parents when their child is diagnosed with a life-limiting illness?
@@ -18,7 +18,7 @@ Ladybug House recognizes that when a family hears the terrible news that their c
 Are there places like Ladybug House already?
 Right now there are only two palliative care homes for children, adolescents and young adults in the United States. As this has never been done in Washington, this is still in the works. Our plan is to have support from insurance and the rest from community giving and philanthropy.
 Who is in charge of Ladybug House?
-<a href="https://www.ladybughouse.org/board-of-directors/">Suzanne Gwynn</a> is the CEO of Ladybug House. 
+<a href="https://www.ladybughouse.org/board-of-directors/" target="_blank">Suzanne Gwynn</a> is the CEO of Ladybug House. 
 Is Ladybug House open?
 Not yet. We are looking for a donation of three to five acres from the city, businesses or a private donation. Members of our Land Committee are working to find a suitable building site for Ladybug House.
 When will Ladybug House be open to accept families?
@@ -36,23 +36,23 @@ Because we are a nonprofit organization, I have been designed to help share the 
 WHAT IS A BOT/A.I.?
 A bot is an automated software program, designed to stand in for a human. Basically I am an artificially intelligent nonprofit volunteer. 
 How can I get in contact with Ladybug House?
-You could fill out a <a href="https://www.ladybughouse.org/volunteer/">volunteer</a> form. You could submit a <a href="https://www.ladybughouse.org/contact/">volunteer</a>. 
+You could fill out a <a href="https://www.ladybughouse.org/volunteer/" target="_blank">volunteer</a> form. You could submit a <a href="https://www.ladybughouse.org/contact/" target="_blank">volunteer</a>. 
 Can I write off taxes for donating to Ladybug House?
 Yes. Ladybug House is a non-profite, categorized as a 501(c)(3). 
 I have some questions.
 Glad to hear that. This is exactly what I'm good at! 
 Why is it called Ladybug House?
-Suzanne, the CEO, tells that story <a href="https://www.ladybughouse.org/the-lbh-name/">here</a>
+Suzanne, the CEO, tells that story <a href="https://www.ladybughouse.org/the-lbh-name/" target="_blank">here</a>
 Can I learn more about videos can I watch? 
-Yes. <iframe width="560" height="315" src="https://www.youtube.com/embed/SB37NizEl3U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> You can find more videos at the Ladybug House <a src="https://www.youtube.com/channel/UCJIX1mQvU0X6J6Gtm0SkRxA">Youtube</a> channel. 
+Yes. <iframe width="560" height="315" src="https://www.youtube.com/embed/SB37NizEl3U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> You can find more videos at the Ladybug House <a src="https://www.youtube.com/channel/UCJIX1mQvU0X6J6Gtm0SkRxA" target="_blank">Youtube</a> channel. 
 Who is Suzanne Gwynn?
-Suzanne is an oncology nurse by training, and an accomplished nonprofit leader. You can find more about her at her <a href="https://www.ladybughouse.org/board-of-directors/">biography</a> page.  
+Suzanne is an oncology nurse by training, and an accomplished nonprofit leader. You can find more about her at her <a href="https://www.ladybughouse.org/board-of-directors/" target="_blank">biography</a> page.  
 How does Ladybug House help in the community?
 Concurrent with our efforts to raise funds for building the facility, we have established a community outreach program that we call “Ladybug Love,” offering support and resources to families in need of short-term respite care and providing them with some quality of life and memory making opportunities. We have also partnered with the Leukemia and Lymphoma society to bring a much needed speaker series to the community. “Conversations that Matter” will be hosted quarterly, open to the community, medical and professional services.
 What is Ladybug House doing now?
 Concurrent with our efforts to raise funds for building the facility, we have established a community outreach program that we call “Ladybug Love,” offering support and resources to families in need of short-term respite care and providing them with some quality of life and memory making opportunities. We have also partnered with the Leukemia and Lymphoma society to bring a much needed speaker series to the community. “Conversations that Matter” will be hosted quarterly, open to the community, medical and professional services.
 What is palliative care end of life care?
-Palliative care is designed to help give people a temporary "break" from being sick. <br><a href="https://static1.squarespace.com/static/5399c64ce4b0ce64b1989088/t/5b3a9bb58a922dc88f44891f/1530567612860/1528776522938.png?format=750w"><img src="https://static1.squarespace.com/static/5399c64ce4b0ce64b1989088/t/5b3a9bb58a922dc88f44891f/1530567612860/1528776522938.png?format=750w" height="200" width="200"></a>
+Palliative care is designed to help give people a temporary "break" from being sick. <br><a href="https://static1.squarespace.com/static/5399c64ce4b0ce64b1989088/t/5b3a9bb58a922dc88f44891f/1530567612860/1528776522938.png?format=750w" target="_blank"><img src="https://static1.squarespace.com/static/5399c64ce4b0ce64b1989088/t/5b3a9bb58a922dc88f44891f/1530567612860/1528776522938.png?format=750w" target="_blank" height="200" width="200"></a>
 How old do you have to be to go to Ladybug House?
 During the initial phase we will be looking at 19 years of age and under, but will look at young adults on a need to need basis. Seattle Children's Hospital treats to age 29. This will further be decided with the support of the community.
 How much does it cost?
